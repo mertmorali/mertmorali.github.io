@@ -7,12 +7,9 @@ body {
 .jumbotron {
 	text-align: center;
 	background-image: url('../../images/mertfamily.jpg');
+	color: #3366FF
 }
 
 .btn-lg {
 	font-size: 36px;
-}
-
-.jumbotron p {
-	color: #FFFFFF
 }
