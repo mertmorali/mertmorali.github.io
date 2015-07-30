@@ -1,0 +1,17 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+	text-align: center;
+}
+
+.btn-lg {
+	font-size: 36px;
+}
+
+.jumbotron p {
+	color: #FF0000
+}
